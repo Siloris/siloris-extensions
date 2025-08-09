@@ -3,6 +3,7 @@ bundles
 lib
 tmp
 .vscode
+!bundles/gh-pages/
 
 #compiled sources
 package-lock.json
