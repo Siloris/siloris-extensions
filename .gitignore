@@ -1,5 +1,5 @@
 temp_build
-bundles
+bundles/*
 lib
 tmp
 .vscode
