@@ -1,0 +1,24 @@
+{
+	"name": "siloris-extensions",
+	"repositoryName": "Siloris Extensions",
+	"version": "1.2.0",
+	"description": "Siloris Paperback extension repository",
+	"main": "index.js",
+	"scripts": {
+		"bundle": "paperback bundle",
+		"serve": "paperback serve"
+	},
+	"GITHUB_REPOSITORY": "https://github.com/Siloris/siloris-extensions",
+	"baseURL": "https://siloris.github.io/siloris-extensions/",
+	"noAddToPaperbackButton": false,
+	"author": "Siloris",
+	"license": "BSD-2-Clause",
+	"devDependencies": {
+		"ts-node": "10.9.2",
+		"typescript": "5.9.2"
+	},
+	"dependencies": {
+		"@paperback/toolchain": "0.8.7",
+		"@paperback/types": "0.8.7"
+	}
+}
