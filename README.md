@@ -1,8 +1,10 @@
-## Installation source
+## v8 extensions made by Siloris for the [`Paperback iOS App`](https://paperback.moe)
 
-v8 extensions for Paperback IOS App made by Siloris
+### Installation
+
+Open github page on iDevice and add to paperback.
 
 [`https://siloris.github.io/siloris-extensions/`](https://siloris.github.io/siloris-extensions/)
 
-## Requirements
+### Requirements
 - 0.8.x version of Paperback
